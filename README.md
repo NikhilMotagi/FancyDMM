@@ -13,4 +13,4 @@ ____
 ____
 ## Project Inspired from
 
-link:<https://hackaday.io/project/191203-mini-oled-panel-meter>
+link : <https://hackaday.io/project/191203-mini-oled-panel-meter>
