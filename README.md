@@ -6,9 +6,9 @@ To keep the code size low, I used Bare Metal coding.
 ____
 ## Photo Gallery
 
+|<img src = "assets/FancyDMM1" height = 50%>|<img src = "assets/FancyDMM2" height = 50%>|
 |-----|------|
-|<img scr = "assets/FancyDMM1" height = 50%>|<img scr = "assets/FancyDMM2" height = 50%>|
-|<img scr = "assets/FancyDMM3" height = 50%>|<img scr = "assets/FancyDMM4" height = 50%>|
+|<img src = "assets/FancyDMM3" height = 50%>|<img src = "assets/FancyDMM4" height = 50%>|
 
 ____
 ## Project Inspired from
